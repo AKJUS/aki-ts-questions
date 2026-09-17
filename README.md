@@ -80,7 +80,7 @@ This might be useful if one was interested in up-to-date statistics.
 * ahelwer
 * ahlinc
 * amaanq
-* clason and nvim-treesitter contributors
+* clason and nvim-treesitter contributors :)
 * damieng
 * dannyfreeman
 * NoahTheDuke
